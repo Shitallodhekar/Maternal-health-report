@@ -1,6 +1,7 @@
-**********************Maternal Abdominal Fat and Pregnancy Outcomes***********
+**Maternal Abdominal Fat and Pregnancy Outcomes**
 
 Project Overview : 
+
 The Maternal Health project aims to explore the relationship between various maternal health factors, particularly abdominal fat, and pregnancy outcomes. The dataset includes 211 patients, with 116 variables covering demographics, health measurements, 
 lab results, and delivery details. We analyzed how factors like body fat, substance use, and pre-existing conditions (such as diabetes and hypertension) impact pregnancy complications, birth weight, delivery methods, and neonatal outcomes.
 
